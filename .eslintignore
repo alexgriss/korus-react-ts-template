@@ -1,0 +1,6 @@
+webpack/*
+dist/*
+.prettierrc.js
+src/mockups/*
+src/**/*.test.js
+src/**/*.test.jsx
